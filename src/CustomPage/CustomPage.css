@@ -1,0 +1,11 @@
+.main-container {
+  flex: 1;
+  background-color: aliceblue;
+}
+
+.item {
+  width: 400px;
+  height: 50px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 45px;
+}
